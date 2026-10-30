@@ -13,7 +13,7 @@ namespace Tyuiu.ZalyaletdinovDE.Sprint3.Task6.V13
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                         *");
             Console.WriteLine("********************************************************************************************");
 
-            Console.WriteLine("Отрезок: [" + start + "; " + end + "]");
+            Console.WriteLine("Отрезок: [" + start + ";" + end + "]");
 
             Console.WriteLine("********************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                               *");
