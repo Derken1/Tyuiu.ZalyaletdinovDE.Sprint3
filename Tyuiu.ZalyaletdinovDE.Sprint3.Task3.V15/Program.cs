@@ -19,7 +19,7 @@ namespace Tyuiu.ZalyaletdinovDE.Sprint3.Task3.V15
             Console.WriteLine("********************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                               *");
             Console.WriteLine("********************************************************************************************");
-            Console.WriteLine("S = " + ds.GetMinCharCount(str, ch));
+            Console.WriteLine("min = " + ds.GetMinCharCount(str, ch));
         }
     }
 }
